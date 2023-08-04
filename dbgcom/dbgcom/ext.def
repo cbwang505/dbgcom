@@ -1,0 +1,13 @@
+
+;   lldext.def
+;--------------------------------------------------------------------
+EXPORTS
+     DebugExtensionNotify
+     DebugExtensionInitialize
+     DebugExtensionUninitialize
+
+     cometa
+     cohelp
+     comon
+     coreg
+     cobp
